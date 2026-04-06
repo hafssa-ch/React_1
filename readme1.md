@@ -131,6 +131,10 @@ Une application React simple affichant :
 * Une liste de voitures
 * Des listes de courses
 
+<img width="943" height="439" alt="image" src="https://github.com/user-attachments/assets/dcbda811-6e05-4750-88e5-d3399a4140b4" />
+
+<img width="941" height="434" alt="image" src="https://github.com/user-attachments/assets/0c49cda9-d6b3-43d2-898a-1675dd32d10b" />
+
 ---
 
 ## 🧠 Conclusion
@@ -141,11 +145,3 @@ Ce TP permet de comprendre les bases de React :
 * JSX
 * Props
 * Organisation du projet
-
----
-
-🚀 Vous êtes maintenant prêt à apprendre des concepts plus avancés comme :
-
-* useState
-* useEffect
-* Gestion des événements
